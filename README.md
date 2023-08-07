@@ -1,3 +1,44 @@
+# Instagram Clone Web Application
+
+
+<br/>
+
+## Introduction
+
+Creating a **Instagram Clone Web Application** for connecting with people via creating new Post ,comments and likes . This project is built using
+ReactJS, Redux,  firebase. It consists of various section such as Login, SignUp, Home, profile, Post.
+This application can assist users in connecting with friends and people around them.
+
+
+## 🔗 Important Links
+
+> ## Checkout the Website [Web Application](https://instagram-clone-973cc.web.app/)
+
+
+<br />
+
+
+## Features
+
+- **Sign Up**
+<p> User can able to create his/her new account if it doesn't exists earlier. Details required to create a new account are Email, UserName, password, Photourl</p>
+
+- **Sign In**
+<p> User can able to login to the existing account by entering the details such as email, password.</p>
+
+- **Home Page**
+<p> Home Page will Diplay all the posts.</p>
+
+- **Profile Section**
+<p>User Information and Posts.</p>
+
+- **Create New Post**
+<p>User can add Posts along with caption.</p>
+
+- **Create New Comment**
+<p>User can add new comments to already existing post and Likes.</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +109,61 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Tools Used
+
+ <p align="justify">
+
+ 
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML logo">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo">
+<img height="140" width="140" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript logo">
+<img height="140" width="140" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React logo">
+<img height="140" width="140" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Redux logo">
+<img height="140" width="140" src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Material Ui">
+<img height="140" width="140" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase logo">
+
+<img height="140" width="140" src="https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png" alt="Vscode img logo">
+
+</p>
+
+## Library Used
+- reactJs
+- react-router-dom
+- firebase
+- Material UI
+ 
+
+
+- Database: Firestore
+- Version Control System: Git
+- VCS Hosting: GitHub
+- Programming / Scripting: Vanilla JavaScript
+- Front-End: React
+- Integrated Development Environment: VSCode
+
+
+## Screens
+
+<p align="justify">
+
+## Login In
+<img src="./screenshots/LoginPage.png">
+
+### Sign Up
+<img src="./screenshots/SignUpPage.png">
+
+### Home Page
+<img src="/screenshots/HomePage.png">
+
+### Profile Page
+<img src="/screenshots/ProfilePage.png">
+
+### Post
+<img src="/screenshots/Post.png">
+
+
+
+</p>
