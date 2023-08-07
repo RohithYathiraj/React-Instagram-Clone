@@ -121,7 +121,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo">
 <img height="140" width="140" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript logo">
 <img height="140" width="140" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React logo">
-<img height="140" width="140" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="Redux logo">
 <img height="140" width="140" src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="Material Ui">
 <img height="140" width="140" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="Firebase logo">
 
